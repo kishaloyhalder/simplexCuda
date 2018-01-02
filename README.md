@@ -5,7 +5,7 @@ The program solves an LP with Simplex algorithm.</br>
 
 <h1>How to run the program?</h1>
 $nvcc simplex.cu</br>
-$./a.out <datafile> <i/n> <max_iteration></br>
+$./a.out &ltdatafile&gt &lti/n&gt &ltmax_iteration&gt</br>
 sample run:</br>
 $./a.out TestCases/testcase1.txt n 500</br>
 
